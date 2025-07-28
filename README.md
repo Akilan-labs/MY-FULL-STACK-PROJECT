@@ -8,7 +8,7 @@ A full-stack web application built using **HTML, CSS, JavaScript, and PHP**, des
 ## Features
 - **Responsive Frontend** using HTML5 & CSS3  
 - **Dynamic Interactions** powered by JavaScript  
-- 🗄**Backend Functionality** with PHP  
+- **Backend Functionality** with PHP  
 - **Database Integration** (MySQL / MariaDB)  
 - **User Authentication System** (Login/Signup)  
 - **CRUD Operations** (Create, Read, Update, Delete)  
